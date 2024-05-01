@@ -26,5 +26,20 @@
         }
     ],
 
-    "books":[]
+  "books": [
+    {
+      "title": "God of small things",
+      "author": "Arundadi roy",
+      "genre": "Novel",
+      "imageLink": "https://m.media-amazon.com/images/I/91saO95VziL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    },
+    {
+      "title": "God of small things",
+      "author": "Arundadi roy",
+      "genre": "Novel",
+      "imageLink": "https://m.media-amazon.com/images/I/91saO95VziL._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    }
+  ]
 }
