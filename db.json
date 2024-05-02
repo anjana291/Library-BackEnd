@@ -39,6 +39,63 @@
       "genre": "Novel",
       "imageLink": "https://m.media-amazon.com/images/I/91saO95VziL._AC_UF1000,1000_QL80_.jpg",
       "id": 2
+    },
+    {
+      "title": "The White Tiger",
+      "author": "Aravind Adiga",
+      "genre": "Picaresque novel",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpYi_tSanmuSW-Qhd6tAxQy96ieJD8BpmA8rT3wO9wF6M_eamI",
+      "id": 3
+    },
+    {
+      "title": "Train to Pakistan",
+      "author": " Khushwant Singh",
+      "genre": "Novel",
+      "imageLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNEWjMUfO8EluTjWHxl10rRw38ClMKVFPg-z4VbuVJfQzBAIKr",
+      "id": 4
+    },
+    {
+      "title": "The Story Of My Experiments With Truth",
+      "author": "Mohandas Karamchand Gandhi",
+      "genre": "Autobiography",
+      "imageLink": "https://cdn.kobo.com/book-images/6f52c7d8-6ddf-4998-bb8c-fa0ad8357836/1200/1200/False/the-story-of-my-experiments-with-truth-3.jpg",
+      "id": 5
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Novel",
+      "imageLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28NpTAyBYTSOtspLciHZYIvDfdfJvmIWSel5o4L8j1Q&s",
+      "id": 6
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Novel",
+      "imageLink": "https://m.media-amazon.com/images/I/61u7VfR+hrL._AC_UF1000,1000_QL80_.jpg",
+      "id": 7
+    },
+    {
+      "title": "xv",
+      "author": "fzfc",
+      "genre": "fcff",
+      "imageLink": "cfcfcf",
+      "id": 8
+    }
+  ],
+  "userBookList": [
+    {
+      "title": "God of small things",
+      "author": "Arundadi roy",
+      "timeStamp": "01/05/2024, 22:32:17",
+      "id": 1
+    },
+    {
+      "title": "The Story Of My Experiments With Truth",
+      "author": "Mohandas Karamchand Gandhi",
+      "timeStamp": "01/05/2024, 22:39:19",
+      "userID": "2",
+      "id": 2
     }
   ]
 }
