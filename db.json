@@ -116,13 +116,46 @@
       "author": "sss",
       "timeStamp": "12/05/2024, 20:03:24",
       "userId": "4",
-      "id": 8},
-      {
+      "id": 8
+    },
+    {
       "title": "Life of Pi",
       "author": "Yann Martel",
       "timeStamp": "05/05/2024, 21:15:49",
       "userID": "2",
       "id": 3
+    }
+  ],
+  "userWishlist": [
+    {
+      "title": "sss",
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "title": "s",
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "title": "s",
+      "userId": "2",
+      "id": 3
+    },
+    {
+      "title": "ss",
+      "userId": "2",
+      "id": 4
+    },
+    {
+      "title": "ss",
+      "userId": "2",
+      "id": 5
+    },
+    {
+      "title": "Ettavum Priyappetta Ennodu",
+      "userId": "2",
+      "id": 6
     }
   ]
 }
