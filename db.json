@@ -27,10 +27,38 @@
   ],
   "books": [
     {
+<<<<<<< HEAD
       "title": "sss",
       "author": "sss",
       "imageLink": "sss",
       "genre": "ss",
+=======
+      "title": "s",
+      "author": "s",
+      "genre": "s",
+      "imageLink": "s",
+      "id": 5
+    },
+    {
+      "title": "s",
+      "author": "s",
+      "imageLink": "s",
+      "genre": "s",
+      "id": 6
+    },
+    {
+      "title": "ss",
+      "author": "ss",
+      "genre": "ss",
+      "imageLink": "ss",
+      "id": 7
+    },
+    {
+      "title": "Ettavum Priyappetta Ennodu",
+      "author": "Nimna Vijay",
+      "genre": "Novels",
+      "imageLink": "https://rukminim2.flixcart.com/image/850/1000/xif0q/regionalbooks/h/t/h/ettavum-priyappetta-ennodu-malayalm-novel-by-nimna-vijay-a-book-original-imagphhx6h2dcyfr.jpeg?q=90&crop=false",
+>>>>>>> 63a9b5fab95d43948ed58bde7df63d74cd08ef21
       "id": 8
     },
     {
@@ -57,6 +85,7 @@
       "id": 2
     },
     {
+<<<<<<< HEAD
       "title": "ss",
       "author": "ss",
       "timeStamp": "05/05/2024, 21:10:06",
@@ -90,6 +119,13 @@
       "timeStamp": "12/05/2024, 20:03:24",
       "userId": "4",
       "id": 8
+=======
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "timeStamp": "05/05/2024, 21:15:49",
+      "userID": "2",
+      "id": 3
+>>>>>>> 63a9b5fab95d43948ed58bde7df63d74cd08ef21
     }
   ]
 }
