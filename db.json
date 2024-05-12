@@ -27,12 +27,12 @@
   ],
   "books": [
     {
-<<<<<<< HEAD
       "title": "sss",
       "author": "sss",
       "imageLink": "sss",
-      "genre": "ss",
-=======
+      "genre": "ss"
+    },
+    {
       "title": "s",
       "author": "s",
       "genre": "s",
@@ -58,7 +58,6 @@
       "author": "Nimna Vijay",
       "genre": "Novels",
       "imageLink": "https://rukminim2.flixcart.com/image/850/1000/xif0q/regionalbooks/h/t/h/ettavum-priyappetta-ennodu-malayalm-novel-by-nimna-vijay-a-book-original-imagphhx6h2dcyfr.jpeg?q=90&crop=false",
->>>>>>> 63a9b5fab95d43948ed58bde7df63d74cd08ef21
       "id": 8
     },
     {
