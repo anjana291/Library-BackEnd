@@ -85,7 +85,6 @@
       "id": 2
     },
     {
-<<<<<<< HEAD
       "title": "ss",
       "author": "ss",
       "timeStamp": "05/05/2024, 21:10:06",
@@ -118,14 +117,13 @@
       "author": "sss",
       "timeStamp": "12/05/2024, 20:03:24",
       "userId": "4",
-      "id": 8
-=======
+      "id": 8},
+      {
       "title": "Life of Pi",
       "author": "Yann Martel",
       "timeStamp": "05/05/2024, 21:15:49",
       "userID": "2",
       "id": 3
->>>>>>> 63a9b5fab95d43948ed58bde7df63d74cd08ef21
     }
   ]
 }
